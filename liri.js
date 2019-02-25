@@ -41,12 +41,17 @@ function showConcertInfo(inputParameter){
             fs.appendFileSync("log.txt", "**********EVENT INFO*********\n");
             console.log(i);
             fs.appendFileSync("log.txt", i+"\n");
-            console.log("Venue: " + concerts[i].venue.name);
-            fs.appendFileSync("log.txt", "Venue: " + concerts[i].venue.name+"\n");
-            console.log("Location: " +  concerts[i].venue.city);
-            fs.appendFileSync("log.txt", "Venue: " +  concerts[i].venue.city+"\n");
-            console.log("Date of the Event: " +  concerts[i].datetime);
-            fs.appendFileSync("log.txt", "Date of the Event: " +  concerts[i].datetime+"\n");
+            console.log("Name of the venue: " + concerts[i].venue.name);
+            fs.appendFileSync("log.txt", "Name of the venue: " + concerts[i].venue.name+"\n");
+            console.log("Venue location: " +  concerts[i].venue.city);
+            fs.appendFileSync("log.txt", "Venue location: " +  concerts[i].venue.city+"\n");
+            var dTime = concerts[i].datetime;
+            var month = dTime.substring(5,7);
+            var year = dTime.substring(0,4);
+            var day = dTime.substring(8,10);
+            var dateForm = month + "/" + day + "/" + year
+            console.log("Date of the Event: " +  dateForm);
+            fs.appendFileSync("log.txt", "Date of the Event: " + dateForm +"\n");
             console.log("*****************************");
             fs.appendFileSync("log.txt", "*****************************"+"\n");
         }
