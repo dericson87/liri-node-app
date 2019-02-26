@@ -116,7 +116,7 @@ require("dotenv").config();
 ### What Each Command Should Do
 
 1. `node liri.js concert-this <artist/band name here>`
-![concert-this](/concert-this.gif)
+![concert-this](/bandsintown.gif)
 
    * This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal:
 
@@ -128,7 +128,7 @@ require("dotenv").config();
 
 
 2. `node liri.js spotify-this-song '<song name here>'`
-![spotify-this-song](/spotify-this-song.gif)
+![spotify-this-song](/spotify.gif)
 
    * This will show the following information about the song in your terminal/bash window
 
@@ -144,7 +144,7 @@ require("dotenv").config();
 
   
 3. `node liri.js movie-this '<movie name here>'`
-![movie-this](/movie-this.gif)
+![movie-this](/omdb.gif)
 
    * This will output the following information to your terminal/bash window:
 
@@ -168,7 +168,7 @@ require("dotenv").config();
    * You'll use the `axios` package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
 
 4. `node liri.js do-what-it-says`
-![do-what-it-says](/do-what-it-says.gif)
+![do-what-it-says](/doWhat.gif)
 
    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
