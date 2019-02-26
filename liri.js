@@ -91,8 +91,8 @@ function spotifySong(parameter) {
       fs.appendFileSync("log.txt","Preview: " + data.tracks.items[3].preview_url + "\n");
       display(chalk.green("Album: " + data.tracks.items[0].album.name));
       fs.appendFileSync("log.txt","Album: " + data.tracks.items[0].album.name);
-      display(chalk.blue("\n**********SONG INFO***********\n"));
-      fs.appendFileSync("log.txt", "\n**********SONG INFO***********\n");  
+      display(chalk.blue("\n******************************\n"));
+      fs.appendFileSync("log.txt", "\n******************************\n");  
     }
   });
 };

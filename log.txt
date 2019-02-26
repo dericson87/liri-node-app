@@ -1,1 +1,1065 @@
 
+
+**********SONG INFO***********
+Artist: Eminem
+Song: The Real Slim Shady
+Preview: null
+Album: The Marshall Mathers LP
+**********SONG INFO***********
+**********MOVIE INFO*********
+Title: Dumb and Dumber
+Release Year: 1994
+IMDB Rating: 7.3
+Rotten Tomatoes Rating: 67%
+Country of Production: USA
+Language: English, Swedish, German
+Plot: The cross-country adventures of 2 good-hearted but incredibly stupid friends.
+Actors: Jim Carrey, Jeff Daniels, Lauren Holly, Mike Starr
+*****************************
+
+********EVENT INFO***********
+0
+Name of the venue: Times Union Center
+Venue location: Albany
+Date of the Event: 03/18/2019
+******************************
+********EVENT INFO***********
+1
+Name of the venue: TD Garden
+Venue location: Boston
+Date of the Event: 03/20/2019
+******************************
+********EVENT INFO***********
+2
+Name of the venue: KeyBank Center
+Venue location: Buffalo
+Date of the Event: 03/22/2019
+******************************
+********EVENT INFO***********
+3
+Name of the venue: Capitol One Arena
+Venue location: Washington
+Date of the Event: 03/25/2019
+******************************
+********EVENT INFO***********
+4
+Name of the venue: Wells Fargo Center
+Venue location: Philadelphia
+Date of the Event: 03/26/2019
+******************************
+********EVENT INFO***********
+5
+Name of the venue: Quicken Loans Arena
+Venue location: Cleveland
+Date of the Event: 03/28/2019
+******************************
+********EVENT INFO***********
+6
+Name of the venue: Mohegan Sun Arena
+Venue location: Uncasville
+Date of the Event: 03/30/2019
+******************************
+********EVENT INFO***********
+7
+Name of the venue: Bell Centre
+Venue location: Montréal
+Date of the Event: 04/01/2019
+******************************
+********EVENT INFO***********
+8
+Name of the venue: Scotiabank Arena
+Venue location: Toronto
+Date of the Event: 04/03/2019
+******************************
+********EVENT INFO***********
+9
+Name of the venue: Little Caesars Arena
+Venue location: Detroit
+Date of the Event: 04/05/2019
+******************************
+********EVENT INFO***********
+10
+Name of the venue: United Center
+Venue location: Chicago
+Date of the Event: 04/07/2019
+******************************
+********EVENT INFO***********
+11
+Name of the venue: United Center
+Venue location: Chicago
+Date of the Event: 04/08/2019
+******************************
+********EVENT INFO***********
+12
+Name of the venue: Schottenstein Center
+Venue location: Columbus
+Date of the Event: 04/10/2019
+******************************
+********EVENT INFO***********
+13
+Name of the venue: Empire Polo Club
+Venue location: Indio
+Date of the Event: 04/12/2019
+******************************
+********EVENT INFO***********
+14
+Name of the venue: Enterprise Center
+Venue location: Saint Louis
+Date of the Event: 04/13/2019
+******************************
+********EVENT INFO***********
+15
+Name of the venue: Coachella Valley Music and Arts Festival
+Venue location: Indio
+Date of the Event: 04/14/2019
+******************************
+********EVENT INFO***********
+16
+Name of the venue: Fiserv Forum
+Venue location: Milwaukee
+Date of the Event: 04/15/2019
+******************************
+********EVENT INFO***********
+17
+Name of the venue: Xcel Energy Center
+Venue location: St Paul
+Date of the Event: 04/17/2019
+******************************
+********EVENT INFO***********
+18
+Name of the venue: Pepsi Center
+Venue location: Denver
+Date of the Event: 04/20/2019
+******************************
+********EVENT INFO***********
+19
+Name of the venue: Coachella Valley Music and Arts Festival
+Venue location: Indio
+Date of the Event: 04/21/2019
+******************************
+********EVENT INFO***********
+20
+Name of the venue: Vivint Smart Home Arena
+Venue location: Salt Lake City
+Date of the Event: 04/22/2019
+******************************
+********EVENT INFO***********
+21
+Name of the venue: Rogers Place
+Venue location: Edmonton
+Date of the Event: 04/25/2019
+******************************
+********EVENT INFO***********
+22
+Name of the venue: Rogers Arena
+Venue location: Vancouver
+Date of the Event: 04/27/2019
+******************************
+********EVENT INFO***********
+23
+Name of the venue: Moda Center
+Venue location: Portland
+Date of the Event: 04/30/2019
+******************************
+********EVENT INFO***********
+24
+Name of the venue: SAP Center
+Venue location: San Jose
+Date of the Event: 05/02/2019
+******************************
+********EVENT INFO***********
+25
+Name of the venue: Golden 1 Center
+Venue location: Sacramento
+Date of the Event: 05/03/2019
+******************************
+********EVENT INFO***********
+26
+Name of the venue: STAPLES Center
+Venue location: Los Angeles
+Date of the Event: 05/06/2019
+******************************
+********EVENT INFO***********
+27
+Name of the venue: Staples Center
+Venue location: Los Angeles
+Date of the Event: 05/07/2019
+******************************
+********EVENT INFO***********
+28
+Name of the venue: The Forum
+Venue location: Los Angeles
+Date of the Event: 05/10/2019
+******************************
+********EVENT INFO***********
+29
+Name of the venue: T-Mobile Arena
+Venue location: Las Vegas
+Date of the Event: 05/11/2019
+******************************
+********EVENT INFO***********
+30
+Name of the venue: Talking Stick Resort Arena
+Venue location: Phoenix
+Date of the Event: 05/14/2019
+******************************
+********EVENT INFO***********
+31
+Name of the venue: AT&T Center
+Venue location: San Antonio
+Date of the Event: 05/17/2019
+******************************
+********EVENT INFO***********
+32
+Name of the venue: Toyota Center
+Venue location: Houston
+Date of the Event: 05/19/2019
+******************************
+********EVENT INFO***********
+33
+Name of the venue: American Airlines Center
+Venue location: Dallas
+Date of the Event: 05/21/2019
+******************************
+********EVENT INFO***********
+34
+Name of the venue: Chesapeake Energy Arena
+Venue location: Oklahoma City
+Date of the Event: 05/23/2019
+******************************
+********EVENT INFO***********
+35
+Name of the venue: Smoothie King Center
+Venue location: New Orleans
+Date of the Event: 05/25/2019
+******************************
+********EVENT INFO***********
+36
+Name of the venue: Amalie Arena
+Venue location: Tampa
+Date of the Event: 05/28/2019
+******************************
+********EVENT INFO***********
+37
+Name of the venue: Amway Center
+Venue location: Orlando
+Date of the Event: 05/29/2019
+******************************
+********EVENT INFO***********
+38
+Name of the venue: American Airlines Arena
+Venue location: Miami
+Date of the Event: 05/31/2019
+******************************
+********EVENT INFO***********
+39
+Name of the venue: American Airlines Arena
+Venue location: Miami
+Date of the Event: 06/01/2019
+******************************
+********EVENT INFO***********
+40
+Name of the venue: United Center
+Venue location: Chicago
+Date of the Event: 06/04/2019
+******************************
+********EVENT INFO***********
+41
+Name of the venue: United Center
+Venue location: Chicago
+Date of the Event: 06/05/2019
+******************************
+********EVENT INFO***********
+42
+Name of the venue: Bridgestone Arena
+Venue location: Nashville
+Date of the Event: 06/07/2019
+******************************
+********EVENT INFO***********
+43
+Name of the venue: State Farm Arena
+Venue location: Atlanta
+Date of the Event: 06/08/2019
+******************************
+********EVENT INFO***********
+44
+Name of the venue: Spectrum Center
+Venue location: Charlotte
+Date of the Event: 06/10/2019
+******************************
+********EVENT INFO***********
+45
+Name of the venue: PPG Paints Arena
+Venue location: Pittsburgh
+Date of the Event: 06/12/2019
+******************************
+********EVENT INFO***********
+46
+Name of the venue: Barclays Center
+Venue location: Brooklyn
+Date of the Event: 06/14/2019
+******************************
+********EVENT INFO***********
+47
+Name of the venue: Barclays Center
+Venue location: Brooklyn
+Date of the Event: 06/15/2019
+******************************
+********EVENT INFO***********
+48
+Name of the venue: Madison Square Garden
+Venue location: New York
+Date of the Event: 06/18/2019
+******************************
+********EVENT INFO***********
+49
+Name of the venue: Madison Square Garden
+Venue location: New York
+Date of the Event: 06/19/2019
+******************************
+********EVENT INFO***********
+50
+Name of the venue: Capital One Arena
+Venue location: Washington
+Date of the Event: 06/21/2019
+******************************
+********EVENT INFO***********
+51
+Name of the venue: TD Garden
+Venue location: Boston
+Date of the Event: 06/22/2019
+******************************
+********EVENT INFO***********
+52
+Name of the venue: Wells Fargo Center
+Venue location: Philadelphia
+Date of the Event: 06/24/2019
+******************************
+********EVENT INFO***********
+53
+Name of the venue: Scotiabank Arena
+Venue location: Toronto
+Date of the Event: 06/26/2019
+******************************
+********EVENT INFO***********
+54
+Name of the venue: Bankers Life Fieldhouse
+Venue location: Indianapolis
+Date of the Event: 06/29/2019
+******************************
+********EVENT INFO***********
+55
+Name of the venue: The Schottenstein Center
+Venue location: Columbus
+Date of the Event: 07/01/2019
+******************************
+********EVENT INFO***********
+56
+Name of the venue: Fiserv Forum
+Venue location: Milwaukee
+Date of the Event: 07/05/2019
+******************************
+********EVENT INFO***********
+57
+Name of the venue: Enterprise Center
+Venue location: St. Louis
+Date of the Event: 07/06/2019
+******************************
+********EVENT INFO***********
+58
+Name of the venue: Xcel Energy Center
+Venue location: St Paul
+Date of the Event: 07/08/2019
+******************************
+********EVENT INFO***********
+59
+Name of the venue: Pepsi Center
+Venue location: Denver
+Date of the Event: 07/11/2019
+******************************
+********EVENT INFO***********
+60
+Name of the venue: Vivint Smart Home Arena
+Venue location: Salt Lake City
+Date of the Event: 07/13/2019
+******************************
+********EVENT INFO***********
+61
+Name of the venue: The O2 Arena
+Venue location: London
+Date of the Event: 08/17/2019
+******************************
+********EVENT INFO***********
+62
+Name of the venue: The O2
+Venue location: London
+Date of the Event: 08/19/2019
+******************************
+********EVENT INFO***********
+63
+Name of the venue: The O2 Arena
+Venue location: London
+Date of the Event: 08/20/2019
+******************************
+********EVENT INFO***********
+64
+Name of the venue: Ziggo Dome
+Venue location: Amsterdam
+Date of the Event: 08/23/2019
+******************************
+********EVENT INFO***********
+65
+Name of the venue: Ziggo Dome
+Venue location: Amsterdam
+Date of the Event: 08/24/2019
+******************************
+********EVENT INFO***********
+66
+Name of the venue: AccorHotels Arena
+Venue location: Paris
+Date of the Event: 08/27/2019
+******************************
+********EVENT INFO***********
+67
+Name of the venue: AccorHotels Arena
+Venue location: Paris
+Date of the Event: 08/28/2019
+******************************
+********EVENT INFO***********
+68
+Name of the venue: Sportpaleis Antwerpen
+Venue location: Antwerpen
+Date of the Event: 08/30/2019
+******************************
+********EVENT INFO***********
+69
+Name of the venue: Lanxess Arena
+Venue location: Köln
+Date of the Event: 09/01/2019
+******************************
+********EVENT INFO***********
+70
+Name of the venue: Stadthalle
+Venue location: Vienna
+Date of the Event: 09/03/2019
+******************************
+********EVENT INFO***********
+71
+Name of the venue: Barclaycard Arena
+Venue location: Hamburg
+Date of the Event: 09/05/2019
+******************************
+********EVENT INFO***********
+72
+Name of the venue: O2 arena
+Venue location: Praha 9
+Date of the Event: 09/08/2019
+******************************
+********EVENT INFO***********
+73
+Name of the venue: Tauron Arena
+Venue location: Kraków
+Date of the Event: 09/09/2019
+******************************
+********EVENT INFO***********
+74
+Name of the venue: Ziggo Dome
+Venue location: Amsterdam
+Date of the Event: 09/11/2019
+******************************
+********EVENT INFO***********
+75
+Name of the venue: Arena Birmingham
+Venue location: Birmingham
+Date of the Event: 09/14/2019
+******************************
+********EVENT INFO***********
+76
+Name of the venue: Arena Birmingham
+Venue location: Birmingham
+Date of the Event: 09/15/2019
+******************************
+********EVENT INFO***********
+77
+Name of the venue: The SSE Hydro
+Venue location: Glasgow
+Date of the Event: 09/17/2019
+******************************
+********EVENT INFO***********
+78
+Name of the venue: FlyDSA Arena
+Venue location: Sheffield
+Date of the Event: 09/19/2019
+******************************
+********EVENT INFO***********
+79
+Name of the venue: 3Arena
+Venue location: Dublin
+Date of the Event: 09/22/2019
+******************************
+********EVENT INFO***********
+80
+Name of the venue: 3Arena
+Venue location: Dublin
+Date of the Event: 09/23/2019
+******************************
+********EVENT INFO***********
+81
+Name of the venue: Royal Arena
+Venue location: Copenhagen
+Date of the Event: 10/01/2019
+******************************
+********EVENT INFO***********
+82
+Name of the venue: Telenor Arena
+Venue location: Oslo
+Date of the Event: 10/03/2019
+******************************
+********EVENT INFO***********
+83
+Name of the venue: Hartwall Arena
+Venue location: Hki
+Date of the Event: 10/05/2019
+******************************
+********EVENT INFO***********
+84
+Name of the venue: Ericsson Globe
+Venue location: Stockholm
+Date of the Event: 10/07/2019
+******************************
+********EVENT INFO***********
+85
+Name of the venue: Mercedes-Benz-Arena
+Venue location: Berlin
+Date of the Event: 10/10/2019
+******************************
+********EVENT INFO***********
+86
+Name of the venue: Hallenstadion
+Venue location: Zürich
+Date of the Event: 10/13/2019
+******************************
+********EVENT INFO***********
+0
+Name of the venue: Planet Hollywood Resort & Casino	- Las Vegas
+Venue location: Las Vegas
+Date of the Event: 04/10/2019
+******************************
+********EVENT INFO***********
+1
+Name of the venue: Planet Hollywood Resort & Casino	- Las Vegas
+Venue location: Las Vegas
+Date of the Event: 04/12/2019
+******************************
+********EVENT INFO***********
+2
+Name of the venue: Planet Hollywood Resort & Casino	- Las Vegas
+Venue location: Las Vegas
+Date of the Event: 04/13/2019
+******************************
+********EVENT INFO***********
+3
+Name of the venue: Planet Hollywood Resort & Casino	- Las Vegas
+Venue location: Las Vegas
+Date of the Event: 04/17/2019
+******************************
+********EVENT INFO***********
+4
+Name of the venue: Planet Hollywood Resort & Casino	- Las Vegas
+Venue location: Las Vegas
+Date of the Event: 04/19/2019
+******************************
+********EVENT INFO***********
+5
+Name of the venue: Planet Hollywood Resort & Casino	- Las Vegas
+Venue location: Las Vegas
+Date of the Event: 04/20/2019
+******************************
+********EVENT INFO***********
+6
+Name of the venue: Planet Hollywood Resort & Casino	- Las Vegas
+Venue location: Las Vegas
+Date of the Event: 04/24/2019
+******************************
+********EVENT INFO***********
+7
+Name of the venue: Planet Hollywood Resort & Casino	- Las Vegas
+Venue location: Las Vegas
+Date of the Event: 04/26/2019
+******************************
+********EVENT INFO***********
+8
+Name of the venue: Planet Hollywood Resort & Casino	- Las Vegas
+Venue location: Las Vegas
+Date of the Event: 04/27/2019
+******************************
+********EVENT INFO***********
+9
+Name of the venue: Altice Arena
+Venue location: Lisbon
+Date of the Event: 05/11/2019
+******************************
+********EVENT INFO***********
+10
+Name of the venue: Wizink Arena
+Venue location: Madrid
+Date of the Event: 05/13/2019
+******************************
+********EVENT INFO***********
+11
+Name of the venue: Forum 
+Venue location: Milan
+Date of the Event: 05/15/2019
+******************************
+********EVENT INFO***********
+12
+Name of the venue: Palau San Jordi
+Venue location: Barcelona
+Date of the Event: 05/17/2019
+******************************
+********EVENT INFO***********
+13
+Name of the venue: Accorhotels
+Venue location: Paris
+Date of the Event: 05/19/2019
+******************************
+********EVENT INFO***********
+14
+Name of the venue: TUI Arena
+Venue location: Hannover
+Date of the Event: 05/21/2019
+******************************
+********EVENT INFO***********
+15
+Name of the venue: Sportpalais
+Venue location: Antwerp
+Date of the Event: 05/22/2019
+******************************
+********EVENT INFO***********
+16
+Name of the venue: Ziggo Dome
+Venue location: Amsterdam
+Date of the Event: 05/23/2019
+******************************
+********EVENT INFO***********
+17
+Name of the venue: SAP Arena
+Venue location: Mannheim
+Date of the Event: 05/25/2019
+******************************
+********EVENT INFO***********
+18
+Name of the venue: Olympiahalle
+Venue location: Munich
+Date of the Event: 05/27/2019
+******************************
+********EVENT INFO***********
+19
+Name of the venue: Stadhalle
+Venue location: Vienna
+Date of the Event: 05/28/2019
+******************************
+********EVENT INFO***********
+20
+Name of the venue: Mercedes-Benz Arena
+Venue location: Berlin
+Date of the Event: 05/29/2019
+******************************
+********EVENT INFO***********
+21
+Name of the venue: Scandinavium
+Venue location: Gothenburg
+Date of the Event: 05/31/2019
+******************************
+********EVENT INFO***********
+22
+Name of the venue: Spektrum
+Venue location: Oslo
+Date of the Event: 06/01/2019
+******************************
+********EVENT INFO***********
+23
+Name of the venue: Ericsson Globe
+Venue location: Stockholm
+Date of the Event: 06/02/2019
+******************************
+********EVENT INFO***********
+24
+Name of the venue: Hartwell Arena
+Venue location: Helsinki
+Date of the Event: 06/05/2019
+******************************
+********EVENT INFO***********
+25
+Name of the venue: Royal Arena
+Venue location: Copenhagen
+Date of the Event: 06/08/2019
+******************************
+********EVENT INFO***********
+26
+Name of the venue: Manchester Arena
+Venue location: Manchester
+Date of the Event: 06/10/2019
+******************************
+********EVENT INFO***********
+27
+Name of the venue: 3Arena
+Venue location: Dublin
+Date of the Event: 06/11/2019
+******************************
+********EVENT INFO***********
+28
+Name of the venue: Hydro Arena
+Venue location: Glasgow
+Date of the Event: 06/14/2019
+******************************
+********EVENT INFO***********
+29
+Name of the venue: Barclaycard Arena
+Venue location: Birmingham
+Date of the Event: 06/15/2019
+******************************
+********EVENT INFO***********
+30
+Name of the venue: O2 Arena
+Venue location: London
+Date of the Event: 06/17/2019
+******************************
+********EVENT INFO***********
+31
+Name of the venue: O2 Arena
+Venue location: London
+Date of the Event: 06/18/2019
+******************************
+********EVENT INFO***********
+32
+Name of the venue: Lanxness Arena
+Venue location: Cologne
+Date of the Event: 06/20/2019
+******************************
+********EVENT INFO***********
+33
+Name of the venue: Hallenstadion
+Venue location: Zurich
+Date of the Event: 06/21/2019
+******************************
+********EVENT INFO***********
+34
+Name of the venue: O2 Arena
+Venue location: Prague
+Date of the Event: 06/22/2019
+******************************
+********EVENT INFO***********
+35
+Name of the venue: Torwar Arena
+Venue location: Warsaw
+Date of the Event: 06/24/2019
+******************************
+********EVENT INFO***********
+36
+Name of the venue: Sports Arena
+Venue location: Budapest
+Date of the Event: 06/25/2019
+******************************
+********EVENT INFO***********
+37
+Name of the venue: Capital One Arena
+Venue location: Washington
+Date of the Event: 07/12/2019
+******************************
+********EVENT INFO***********
+38
+Name of the venue: Bell Centre
+Venue location: Montreal
+Date of the Event: 07/15/2019
+******************************
+********EVENT INFO***********
+39
+Name of the venue: ScotiaBank Arena
+Venue location: Toronto
+Date of the Event: 07/17/2019
+******************************
+********EVENT INFO***********
+40
+Name of the venue: Xcel Energy Center
+Venue location: Minneapolis
+Date of the Event: 07/20/2019
+******************************
+********EVENT INFO***********
+41
+Name of the venue: Bell MTS Place
+Venue location: Winnipeg
+Date of the Event: 07/22/2019
+******************************
+********EVENT INFO***********
+42
+Name of the venue: ScotiaBank Saddledome
+Venue location: Calgary
+Date of the Event: 07/24/2019
+******************************
+********EVENT INFO***********
+43
+Name of the venue: Rogers Place
+Venue location: Edmonton
+Date of the Event: 07/25/2019
+******************************
+********EVENT INFO***********
+44
+Name of the venue: Pepsi Live at Rogers Arena
+Venue location: Vancouver
+Date of the Event: 07/27/2019
+******************************
+********EVENT INFO***********
+45
+Name of the venue: Angel of the Winds Arena
+Venue location: Seattle
+Date of the Event: 07/29/2019
+******************************
+********EVENT INFO***********
+46
+Name of the venue: Moda Center
+Venue location: Portland
+Date of the Event: 07/30/2019
+******************************
+********EVENT INFO***********
+47
+Name of the venue: Golden 1 Center
+Venue location: Sacramento
+Date of the Event: 08/01/2019
+******************************
+********EVENT INFO***********
+48
+Name of the venue: Staples Center
+Venue location: Los Angeles
+Date of the Event: 08/03/2019
+******************************
+********EVENT INFO***********
+49
+Name of the venue: SAP Center
+Venue location: San Jose
+Date of the Event: 08/04/2019
+******************************
+********EVENT INFO***********
+50
+Name of the venue: Honda Center
+Venue location: Anaheim
+Date of the Event: 08/05/2019
+******************************
+********EVENT INFO***********
+51
+Name of the venue: Vivint Smart Home Arena
+Venue location: Salt Lake City
+Date of the Event: 08/07/2019
+******************************
+********EVENT INFO***********
+52
+Name of the venue: Pepsi Center Arena
+Venue location: Denver
+Date of the Event: 08/08/2019
+******************************
+********EVENT INFO***********
+53
+Name of the venue: United Center
+Venue location: Chicago
+Date of the Event: 08/10/2019
+******************************
+********EVENT INFO***********
+54
+Name of the venue: Little Caesars Arena
+Venue location: Detroit
+Date of the Event: 08/12/2019
+******************************
+********EVENT INFO***********
+55
+Name of the venue: TD Garden
+Venue location: Boston
+Date of the Event: 08/14/2019
+******************************
+********EVENT INFO***********
+56
+Name of the venue: Barclays Center
+Venue location: New York
+Date of the Event: 08/15/2019
+******************************
+********EVENT INFO***********
+57
+Name of the venue: Wells Fargo Center
+Venue location: Philadelphia
+Date of the Event: 08/17/2019
+******************************
+********EVENT INFO***********
+58
+Name of the venue: Hersheypark Stadium
+Venue location: Hershey
+Date of the Event: 08/18/2019
+******************************
+********EVENT INFO***********
+59
+Name of the venue: PNC Arena
+Venue location: Raleigh
+Date of the Event: 08/20/2019
+******************************
+********EVENT INFO***********
+60
+Name of the venue: State Farm Arena
+Venue location: Atlanta
+Date of the Event: 08/21/2019
+******************************
+********EVENT INFO***********
+61
+Name of the venue: BB&T Center
+Venue location: Fort Lauderdale
+Date of the Event: 08/23/2019
+******************************
+********EVENT INFO***********
+62
+Name of the venue: Amway Center
+Venue location: Orlando
+Date of the Event: 08/24/2019
+******************************
+********EVENT INFO***********
+63
+Name of the venue: Bridgestone Arena
+Venue location: Nashville
+Date of the Event: 08/26/2019
+******************************
+********EVENT INFO***********
+64
+Name of the venue: FedEx Forum
+Venue location: Memphis
+Date of the Event: 08/27/2019
+******************************
+********EVENT INFO***********
+65
+Name of the venue: BOK Center
+Venue location: Tulsa
+Date of the Event: 08/28/2019
+******************************
+********EVENT INFO***********
+66
+Name of the venue: Smoothie King Center
+Venue location: New Orleans
+Date of the Event: 08/30/2019
+******************************
+********EVENT INFO***********
+67
+Name of the venue: Toyota Center
+Venue location: Houston
+Date of the Event: 08/31/2019
+******************************
+********EVENT INFO***********
+68
+Name of the venue: American Airlines Arena
+Venue location: Dallas
+Date of the Event: 09/01/2019
+******************************
+********EVENT INFO***********
+69
+Name of the venue: Cajundome
+Venue location: Lafayette
+Date of the Event: 09/03/2019
+******************************
+********EVENT INFO***********
+70
+Name of the venue: The Legacy Arena at the BJCC
+Venue location: Birmingham
+Date of the Event: 09/04/2019
+******************************
+********EVENT INFO***********
+71
+Name of the venue: Enterprise Center
+Venue location: St. Louis
+Date of the Event: 09/06/2019
+******************************
+********EVENT INFO***********
+72
+Name of the venue: Sprint Center
+Venue location: Kansas City
+Date of the Event: 09/07/2019
+******************************
+********EVENT INFO***********
+73
+Name of the venue: CHI Health Center
+Venue location: Omaha
+Date of the Event: 09/08/2019
+******************************
+********EVENT INFO***********
+74
+Name of the venue: Bankers Life Fieldhouse
+Venue location: Indianapolis
+Date of the Event: 09/10/2019
+******************************
+********EVENT INFO***********
+75
+Name of the venue: Fiserv Forum
+Venue location: Milwaukee
+Date of the Event: 09/11/2019
+******************************
+********EVENT INFO***********
+76
+Name of the venue: KFC Yum! Center
+Venue location: Louisville
+Date of the Event: 09/13/2019
+******************************
+********EVENT INFO***********
+77
+Name of the venue: PPG Paints Arena
+Venue location: Pittsburgh
+Date of the Event: 09/14/2019
+******************************
+********EVENT INFO***********
+78
+Name of the venue: Prudential Center
+Venue location: Newark
+Date of the Event: 09/15/2019
+****************************************MOVIE INFO*********
+Title: Alien
+Release Year: 1979
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 97%
+Country of Production: UK, USA
+Language: English
+Plot: After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.
+Actors: Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton
+*****************************
+
+**********SONG INFO***********
+Artist: Backstreet Boys
+Song: Everybody (Backstreet's Back) - Radio Edit
+Preview: https://p.scdn.co/mp3-preview/c9d837185a6fafdfc49a801266cf25b018c2883a?cid=3347840c1327447cad0ee1635b415f36
+Album: This Is The End: Original Motion Picture Soundtrack
+*********************
+
+**********SONG INFO***********
+Artist: Backstreet Boys
+Song: Everybody (Backstreet's Back) - Radio Edit
+Preview: https://p.scdn.co/mp3-preview/c9d837185a6fafdfc49a801266cf25b018c2883a?cid=3347840c1327447cad0ee1635b415f36
+Album: This Is The End: Original Motion Picture Soundtrack
+***************************
+
+**********SONG INFO***********
+Artist: Backstreet Boys
+Song: Everybody (Backstreet's Back) - Radio Edit
+Preview: https://p.scdn.co/mp3-preview/c9d837185a6fafdfc49a801266cf25b018c2883a?cid=3347840c1327447cad0ee1635b415f36
+Album: This Is The End: Original Motion Picture Soundtrack
+******************************
+
+**********SONG INFO***********
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=3347840c1327447cad0ee1635b415f36
+Album: The Hits--Chapter One
+******************************
+
+********EVENT INFO***********
+0
+Name of the venue: Optus Stadium
+Venue location: Burswood
+Date of the Event: 02/27/2019
+******************************
+********EVENT INFO***********
+1
+Name of the venue: Westpac Stadium
+Venue location: Wellington
+Date of the Event: 03/02/2019
+******************************
